@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BC Blog Chris</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on BC Blog Chris</description>
+    <title>Posts on BC Blog Chris</title>
+    <link>http://localhost:1313/blog/posts/</link>
+    <description>Recent content in Posts on BC Blog Chris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Oct 2025 11:57:54 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Oct 2025 11:57:54 +0200</lastBuildDate><atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Barcode scanner in BC - No camera!</title>
-      <link>http://localhost:1313/posts/barcode-scanner/</link>
+      <link>http://localhost:1313/blog/posts/barcode-scanner/</link>
       <pubDate>Sat, 18 Oct 2025 11:57:54 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/barcode-scanner/</guid>
+      <guid>http://localhost:1313/blog/posts/barcode-scanner/</guid>
       
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Crucial&lt;/strong&gt;: As of right now (18.10.2025) the most recent android version of Business Central does not work with barcode scanning. The most recent version I found was version &lt;code&gt;4-1-2281&lt;/code&gt; from 2024! Every newer version would not pick up on broadcast intents!&lt;/p&gt;
