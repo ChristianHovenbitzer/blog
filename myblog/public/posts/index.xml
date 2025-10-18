@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BC Blog Chris</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on BC Blog Chris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Oct 2025 11:57:54 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 18 Oct 2025 11:57:54 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      
+      <description>&lt;h2 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to My Blog!&lt;/h2&gt;
+&lt;p&gt;This is my first blog post using Hugo. I&amp;rsquo;m excited to start sharing my thoughts and ideas here.&lt;/p&gt;
+&lt;h3 id=&#34;what-ill-be-writing-about&#34;&gt;What I&amp;rsquo;ll Be Writing About&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Technology and programming&lt;/li&gt;
+&lt;li&gt;Personal projects&lt;/li&gt;
+&lt;li&gt;Things I&amp;rsquo;m learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;getting-started-with-hugo&#34;&gt;Getting Started with Hugo&lt;/h3&gt;
+&lt;p&gt;Hugo makes it incredibly easy to create a static website. Some key benefits include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Fast build times&lt;/strong&gt; - Hugo is one of the fastest static site generators&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No dependencies&lt;/strong&gt; - Just a single binary&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexible&lt;/strong&gt; - Supports various content types and themes&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I&amp;rsquo;m looking forward to exploring more features and customizing my blog!&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

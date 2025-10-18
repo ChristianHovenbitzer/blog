@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'BC Blog Chris'
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
+
+[params]
+  mainSections = ['posts']
+  
+[params.author]
+  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  intro = "Blog by Christian Hovenbitzer"
+  name = "Christian Hovenbitzer"
+  description = "Welcome to my blog where I share my thoughts on technology, coding and experiences regarding Microsoft Dynamics 365 Business Central."
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/ChristianHovenbitzer"
+
+[[params.socialIcons]]
+name = "bluesky"
+url = "bsky.app/profile/chovenbitzer.bsky.social"
+
+[[params.socialIcons]]
+name = "discord"
+url = "https://discord.com/users/chris.2453"
