@@ -4,7 +4,7 @@ draft = false
 title = 'Barcode scanner in BC - No camera!'
 +++
 
-> **Crucial**: As of right now (18.10.2025) the most recent android version of Business Central does not work with barcode scanning. The most recent version I found was version `4-1-2281` from 2024! Every newer version would not pick up on broadcast intents!
+> **Crucial**: As of right now (18.10.2025) the most recent android version of Business Central does not work with barcode scanning. The most recent *working* version I found was version `4-1-2281` from 2024! Every newer version would not pick up on broadcast intents!
 
 # Introduction
 
