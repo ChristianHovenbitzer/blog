@@ -121,7 +121,7 @@ To read these logs, you need to set up an ADB connection:
 adb.exe logcat
 ```
 
-![logcat_broadcast](/broadcastintent.png)
+![logcat_broadcast](images/broadcastintent.png)
 
 #### ADB (Android Debug Bridge)
 
@@ -156,7 +156,7 @@ Android Studio allows you to quickly set up virtual Android devices on your PC. 
 - You need to create a project to access the virtual device manager—just create an empty project
 - The button to create virtual devices is in the top right toolbar (Device Manager icon)
 
-![Android Studio](/AndroidStudios.png)
+![Android Studio](images/AndroidStudios.png)
 
 
 #### Cordova Plugin
