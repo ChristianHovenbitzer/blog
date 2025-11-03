@@ -156,7 +156,7 @@ Android Studio allows you to quickly set up virtual Android devices on your PC. 
 - You need to create a project to access the virtual device manager—just create an empty project
 - The button to create virtual devices is in the top right toolbar (Device Manager icon)
 
-![Android Studio](images/AndroidStudios.png)
+![Android Studio](/blog/AndroidStudios.png)
 
 
 #### Cordova Plugin
