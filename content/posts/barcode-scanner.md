@@ -121,7 +121,7 @@ To read these logs, you need to set up an ADB connection:
 adb.exe logcat
 ```
 
-![logcat_broadcast](broadcastintent.png)
+![logcat_broadcast](/blog/broadcastintent.png)
 
 #### ADB (Android Debug Bridge)
 
